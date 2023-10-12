@@ -1,6 +1,6 @@
 package app;
 
-public class Main {
+public class Main {//fixed
     public static void main(String[] args) {
         DealOrNoDeal game = new DealOrNoDeal();
         game.initGame();
